@@ -1,2 +1,3 @@
 This is the second file!
 This is the first modifications in b.txt!
+This is the second modifications in b.txt!
